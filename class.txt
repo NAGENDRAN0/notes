@@ -1,0 +1,37 @@
+Alert
+Frame 
+WindowHandling
+
+
+driver.getWindowHandle();  ---- current Window  (parent window)
+
+driver.getWindowHandles();------Active Window   (child Window)
+
+Window
+https://www.leafground.com/window.xhtml;jsessionid=node0ech4agfopfsdo3m7md6nl9uv143013.node0
+
+
+Dashboard
+https://www.leafground.com/dashboard.xhtml
+
+
+
+
+
+https://www.leafground.com/dashboard.xhtml
+
+
+
+
+createLeadForm_firstName
+viewLead_firstName_sp
+
+
+
+
+
+
+Dashboard
+https://www.leafground.com/dashboard.xhtml
+Window
+https://www.leafground.com/window.xhtml;jsessionid=node0ech4agfopfsdo3m7md6nl9uv143013.node0
